@@ -1,0 +1,25 @@
+{
+  "name": "allex_gatebaselogsource",
+  "version": "1.0.0",
+  "description": "AllexJS base for LogSources on AllexJS Gate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allex-logsources/gatebase.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "gate",
+    "base",
+    "logsource"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-logsources/gatebase/issues"
+  },
+  "homepage": "https://github.com/allex-logsources/gatebase#readme"
+}
